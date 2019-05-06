@@ -1,0 +1,32 @@
+pending - publish - post - _2019_05_06_08_33_11
+draft - pending - post - 2019/05/06/08/33/56
+trash - draft - post - 2019/05/06 - 08:34:29
+publish > private - post/ - 2019/05/06 - 08:36:37
+private > publish - post/ - 2019/05/06 - 08:37:45
+publish > future - post/ - 2019/05/06 - 08:38:38
+publish > draft - post/ - 2019/05/06 - 08:44:24
+draft > draft - post/ - 2019/05/06 - 08:46:08
+draft > private - post/ - 2019/05/06 - 08:49:58
+private > private - post/ - 2019/05/06 - 08:50:56
+new > inherit - revision/ - 2019/05/06 - 08:50:56
+private > private - post/ - 2019/05/06 - 08:51:22
+new > inherit - revision/ - 2019/05/06 - 08:51:22
+future > publish - post/ - 2019/05/06 - 09:17:52
+private > private - post/ - 2019/05/06 - 15:37:01
+new > inherit - revision/ - 2019/05/06 - 15:37:01
+private > private - post/ - 2019/05/06 - 15:39:09
+new > inherit - revision/ - 2019/05/06 - 15:39:09
+new > inherit - revision/ - 2019/05/06 - 15:59:47
+private > private - post/ - 2019/05/06 - 16:01:02
+new > inherit - revision/ - 2019/05/06 - 16:01:02
+private > private - post/ - 2019/05/06 - 16:01:50
+new > inherit - revision/ - 2019/05/06 - 16:01:50
+private > private - post/ - 2019/05/06 - 17:05:02
+new > inherit - revision/ - 2019/05/06 - 17:05:03
+publish > publish - post/ - 2019/05/06 - 17:05:35
+new > inherit - revision/ - 2019/05/06 - 17:05:35
+publish > trash - post/ - 2019/05/06 - 18:05:05
+private > trash - post/ - 2019/05/06 - 18:05:05
+new > auto-draft - post/ - 2019/05/06 - 18:05:11
+auto-draft > publish - post/ - 2019/05/06 - 18:05:24
+new > inherit - revision/ - 2019/05/06 - 18:05:24
